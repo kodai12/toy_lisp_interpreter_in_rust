@@ -1,0 +1,6 @@
+[package]
+name = "tinylisp"
+version = "0.1.0"
+authors = ["sakochik <sakochi.kodai1209@gmail.com>"]
+
+[dependencies]
